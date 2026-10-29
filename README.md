@@ -65,7 +65,7 @@
 
 | Projet | Description | Compétences | Statut |
 |---|---|---|---|
-| **Born2beRoot** | Installation et sécurisation d'un serveur Linux en VM | Partitionnement (LVM), pare-feu, utilisateurs & groupes, politiques de sécurité, hardening, cron | ✅ |
+| [**Born2beRoot**](https://github.com/Bozy92/born2beroot) | Installation et sécurisation d'un serveur Linux en VM | Partitionnement (LVM), pare-feu, utilisateurs & groupes, politiques de sécurité, hardening, cron | ✅ |
 | [**NetPractice**](https://github.com/Bozy92/NetPractice) | Résolution de configurations réseau | Adressage IP, subnetting, routage & passerelles, troubleshooting | ✅ |
 | **Inception** | Infrastructure web multi-services avec Docker Compose (NGINX, WordPress, MariaDB) | Conteneurs, orchestration, réseaux Docker, volumes, gestion des secrets, TLS | ✅ |
 
