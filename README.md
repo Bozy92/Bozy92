@@ -38,9 +38,9 @@
 
 | Projet | Description | Compétences | Statut |
 |---|---|---|---|
-| **Libft** | Ma propre bibliothèque C : réimplémentation de la libc + listes chaînées | Allocation dynamique, pointeurs & mémoire, listes chaînées, strings, création de bibliothèque, Makefile | ✅ |
+| [**Libft**](https://github.com/Bozy92/libft) | Ma propre bibliothèque C : réimplémentation de la libc + listes chaînées | Allocation dynamique, pointeurs & mémoire, listes chaînées, strings, création de bibliothèque, Makefile | ✅ |
 | [**ft_printf**](https://github.com/Bozy92/ft_printf) | Réimplémentation de `printf` | Fonctions variadiques, parsing & formatage, conversion de types, linking de bibliothèque | ✅ |
-| **get_next_line** | Lecture ligne par ligne depuis un file descriptor | I/O bufferisées, variables statiques (état entre appels), allocation dynamique | ✅ |
+| [**get_next_line**](https://github.com/Bozy92/get_next_line) | Lecture ligne par ligne depuis un file descriptor | I/O bufferisées, variables statiques (état entre appels), allocation dynamique | ✅ |
 | [**push_swap**](https://github.com/Bozy92/push_swap) | Tri de piles avec un jeu d'opérations limité, en un minimum de coups | Algorithmes de tri, analyse de complexité, stratégie algorithmique, parsing d'arguments | ✅ |
 
 **Object-Oriented Programming**: Python, POO, design patterns, programmation fonctionnelle, data
@@ -49,7 +49,7 @@
 |---|---|---|---|
 | [**Growing Code**](https://github.com/Bozy92/growing-code) | Introduction à Python à travers un jardin communautaire | Variables, types, expressions, control flow, fonctions | ✅ |
 | [**Code Cultivation**](https://github.com/Bozy92/code-cultivation) | POO en simulant un jardin virtuel | Classes, attributs & méthodes, encapsulation, héritage, classes imbriquées, scope | ✅ |
-| **Garden Guardian** | Pipeline de données de capteurs agricoles robuste aux pannes | Gestion d'erreurs, exceptions standard & custom | ✅ |
+| [**Garden Guardian**](https://github.com/Bozy92/garden-guardian) | Pipeline de données de capteurs agricoles robuste aux pannes | Gestion d'erreurs, exceptions standard & custom | ✅ |
 | [**Data Quest**](https://github.com/Bozy92/data-quest) | Traitement de données de jeu avec les structures Python | Listes, tuples, sets, dictionnaires, itérateurs lazy | ✅ |
 | [**Data Archivist**](https://github.com/Bozy92/data-archivist) | Système d'archivage et de flux de données | I/O fichiers, entrées/sorties standard | ✅ |
 | [**Code Nexus**](https://github.com/Bozy92/code-nexus) | Système de traitement de données extensible | Classes abstraites, overriding, polymorphisme | ✅ |
@@ -67,7 +67,7 @@
 |---|---|---|---|
 | [**Born2beRoot**](https://github.com/Bozy92/born2beroot) | Installation et sécurisation d'un serveur Linux en VM | Partitionnement (LVM), pare-feu, utilisateurs & groupes, politiques de sécurité, hardening, cron | ✅ |
 | [**NetPractice**](https://github.com/Bozy92/NetPractice) | Résolution de configurations réseau | Adressage IP, subnetting, routage & passerelles, troubleshooting | ✅ |
-| **Inception** | Infrastructure web multi-services avec Docker Compose (NGINX, WordPress, MariaDB) | Conteneurs, orchestration, réseaux Docker, volumes, gestion des secrets, TLS | ✅ |
+| [**Inception**](https://github.com/Bozy92/inception) | Infrastructure web multi-services avec Docker Compose (NGINX, WordPress, MariaDB) | Conteneurs, orchestration, réseaux Docker, volumes, gestion des secrets, TLS | ✅ |
 
 ### 📊 Stats
 <p>
