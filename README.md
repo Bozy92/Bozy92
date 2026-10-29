@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bozy 👋</h1>
+<h1 align="center">Hi, I'm Samir Hassani 👋</h1>
 <p align="center">
   Student at <b>42 Paris</b> · Software engineering · Artificial intelligence
 </p>
