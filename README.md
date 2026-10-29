@@ -17,7 +17,7 @@
 - 💻 I build everything from scratch in **C**, from low level up to the system
 - 🐍 **Python**: OOP, design patterns, functional programming, data (Pydantic)
 - 🐳 System administration & infrastructure: Linux, networking, Docker
-- 🤖 Interested in **AI** and **software development**
+- 🤖 Interested in **AI** and **software development**, next focus: AI agents, LLM function calling and RAG
 
 ### 🛠️ Stack
 <p>
