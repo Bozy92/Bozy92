@@ -5,7 +5,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/42-Paris-000000?style=flat&logo=42&logoColor=white" />
-  <img src="https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
 </p>
 
 ---
