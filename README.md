@@ -41,7 +41,7 @@
 | [**Libft**](https://github.com/Bozy92/libft) | Ma propre bibliothèque C : réimplémentation de la libc + listes chaînées | Allocation dynamique, pointeurs & mémoire, listes chaînées, strings, création de bibliothèque, Makefile | ✅ |
 | [**ft_printf**](https://github.com/Bozy92/ft_printf) | Réimplémentation de `printf` | Fonctions variadiques, parsing & formatage, conversion de types, linking de bibliothèque | ✅ |
 | [**get_next_line**](https://github.com/Bozy92/get_next_line) | Lecture ligne par ligne depuis un file descriptor | I/O bufferisées, variables statiques (état entre appels), allocation dynamique | ✅ |
-| [**push_swap**](https://github.com/Bozy92/push_swap) | Tri de piles avec un jeu d'opérations limité, en un minimum de coups | Algorithmes de tri, analyse de complexité, stratégie algorithmique, parsing d'arguments | ✅ |
+| [**push_swap**](https://github.com/Bozy92/push_swap) | Tri de piles avec un jeu d'opérations limité, en un minimum de coups (en binôme avec **thpocas**) | Algorithmes de tri, analyse de complexité, stratégie algorithmique, parsing d'arguments | ✅ |
 
 **Object-Oriented Programming**: Python, POO, design patterns, programmation fonctionnelle, data
 
@@ -58,7 +58,7 @@
 | [**The Matrix**](https://github.com/Bozy92/the-matrix) | Outillage d'ingénierie de données | Environnements virtuels, pip/Poetry, variables d'environnement | ✅ |
 | [**Cosmic Data**](https://github.com/Bozy92/cosmic-data) | Validation de données structurées | Pydantic, modèles de données, validateurs custom, structures imbriquées | ✅ |
 | [**FuncMage**](https://github.com/Bozy92/funcmage) | Programmation fonctionnelle avancée | Fonctions d'ordre supérieur, décorateurs, closures, lambdas, itérateurs fonctionnels | ✅ |
-| [**A-Maze-ing**](https://github.com/Bozy92/a-maze-ing) | Générateur et solveur de labyrinthes avec rendu graphique, packagé | Génération & parcours de graphes, pathfinding, récursion, rendu 2D, sérialisation, configuration, packaging & distribution | ✅ |
+| [**A-Maze-ing**](https://github.com/Bozy92/a-maze-ing) | Générateur et solveur de labyrinthes avec rendu graphique, packagé (en binôme avec **mdauda**) | Génération & parcours de graphes, pathfinding, récursion, rendu 2D, sérialisation, configuration, packaging & distribution | ✅ |
 | **Pacman** | Jeu d'arcade 2D en Python, architecture orientée objet, packagé et déployable | Architecture de jeu, conception OO, rendu 2D, design d'interface, configuration, gestion des dépendances, packaging & déploiement | 🔄 |
 
 **Systems & Networks Administration** ✅: virtualisation, réseau, sécurité, conteneurisation
