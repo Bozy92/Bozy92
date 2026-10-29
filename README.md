@@ -1,6 +1,6 @@
-<h1 align="center">Salut, moi c'est Bozy 👋</h1>
+<h1 align="center">Hi, I'm Bozy 👋</h1>
 <p align="center">
-  Étudiant à <b>42 Paris</b> · Software engineering · Intelligence artificielle
+  Student at <b>42 Paris</b> · Software engineering · Artificial intelligence
 </p>
 
 <p align="center">
@@ -10,12 +10,12 @@
 
 ---
 
-### 🚀 À propos
-- 🎓 Étudiant à **42 Paris** : pédagogie peer-to-peer, apprentissage par projets
-- 💻 Je construis tout from scratch en **C**, du bas niveau jusqu'au système
-- 🐍 **Python** : POO, design patterns, programmation fonctionnelle, data (Pydantic)
-- 🐳 Administration système & infra : Linux, réseau, Docker
-- 🤖 Je m'intéresse à l'**IA** et au **développement logiciel**
+### 🚀 About me
+- 🎓 Student at **42 Paris**: peer-to-peer, project-based learning
+- 💻 I build everything from scratch in **C**, from low level up to the system
+- 🐍 **Python**: OOP, design patterns, functional programming, data (Pydantic)
+- 🐳 System administration & infrastructure: Linux, networking, Docker
+- 🤖 Interested in **AI** and **software development**
 
 ### 🛠️ Stack
 <p>
@@ -32,42 +32,42 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-### 📚 Projets 42
+### 📚 42 Projects
 
-**Programming Fundamentals**: C, gestion mémoire, allocation dynamique, I/O fichiers, algorithmique
+**Programming Fundamentals**: C, memory management, dynamic allocation, file I/O, algorithms
 
-| Projet | Description | Compétences | Statut |
+| Project | Description | Skills | Status |
 |---|---|---|---|
-| [**Libft**](https://github.com/Bozy92/libft) | Ma propre bibliothèque C : réimplémentation de la libc + listes chaînées | Allocation dynamique, pointeurs & mémoire, listes chaînées, strings, création de bibliothèque, Makefile | ✅ |
-| [**ft_printf**](https://github.com/Bozy92/ft_printf) | Réimplémentation de `printf` | Fonctions variadiques, parsing & formatage, conversion de types, linking de bibliothèque | ✅ |
-| [**get_next_line**](https://github.com/Bozy92/get_next_line) | Lecture ligne par ligne depuis un file descriptor | I/O bufferisées, variables statiques (état entre appels), allocation dynamique | ✅ |
-| [**push_swap**](https://github.com/Bozy92/push_swap) | Tri de piles avec un jeu d'opérations limité, en un minimum de coups (en binôme avec **thpocas**) | Algorithmes de tri, analyse de complexité, stratégie algorithmique, parsing d'arguments | ✅ |
+| [**Libft**](https://github.com/Bozy92/libft) | My own C library: libc reimplementation + linked lists | Dynamic allocation, pointers & memory, linked lists, strings, library creation, Makefile | ✅ |
+| [**ft_printf**](https://github.com/Bozy92/ft_printf) | Reimplementation of `printf` | Variadic functions, parsing & formatting, type conversion, library linking | ✅ |
+| [**get_next_line**](https://github.com/Bozy92/get_next_line) | Reading a file line by line from a file descriptor | Buffered I/O, static variables (state between calls), dynamic allocation | ✅ |
+| [**push_swap**](https://github.com/Bozy92/push_swap) | Sorting stacks with a limited set of operations, in as few moves as possible (pair project with **thpocas**) | Sorting algorithms, complexity analysis, algorithmic strategy, argument parsing | ✅ |
 
-**Object-Oriented Programming**: Python, POO, design patterns, programmation fonctionnelle, data
+**Object-Oriented Programming**: Python, OOP, design patterns, functional programming, data
 
-| Projet | Description | Compétences | Statut |
+| Project | Description | Skills | Status |
 |---|---|---|---|
-| [**Growing Code**](https://github.com/Bozy92/growing-code) | Introduction à Python à travers un jardin communautaire | Variables, types, expressions, control flow, fonctions | ✅ |
-| [**Code Cultivation**](https://github.com/Bozy92/code-cultivation) | POO en simulant un jardin virtuel | Classes, attributs & méthodes, encapsulation, héritage, classes imbriquées, scope | ✅ |
-| [**Garden Guardian**](https://github.com/Bozy92/garden-guardian) | Pipeline de données de capteurs agricoles robuste aux pannes | Gestion d'erreurs, exceptions standard & custom | ✅ |
-| [**Data Quest**](https://github.com/Bozy92/data-quest) | Traitement de données de jeu avec les structures Python | Listes, tuples, sets, dictionnaires, itérateurs lazy | ✅ |
-| [**Data Archivist**](https://github.com/Bozy92/data-archivist) | Système d'archivage et de flux de données | I/O fichiers, entrées/sorties standard | ✅ |
-| [**Code Nexus**](https://github.com/Bozy92/code-nexus) | Système de traitement de données extensible | Classes abstraites, overriding, polymorphisme | ✅ |
-| [**The Codex**](https://github.com/Bozy92/the-codex) | Organisation d'un projet en packages | Système d'import, `__init__.py`, imports absolus/relatifs, dépendances circulaires | ✅ |
-| [**DataDeck**](https://github.com/Bozy92/datadeck) | Système de cartes modulaire | Design patterns, classes abstraites, interfaces | ✅ |
-| [**The Matrix**](https://github.com/Bozy92/the-matrix) | Outillage d'ingénierie de données | Environnements virtuels, pip/Poetry, variables d'environnement | ✅ |
-| [**Cosmic Data**](https://github.com/Bozy92/cosmic-data) | Validation de données structurées | Pydantic, modèles de données, validateurs custom, structures imbriquées | ✅ |
-| [**FuncMage**](https://github.com/Bozy92/funcmage) | Programmation fonctionnelle avancée | Fonctions d'ordre supérieur, décorateurs, closures, lambdas, itérateurs fonctionnels | ✅ |
-| [**A-Maze-ing**](https://github.com/Bozy92/a-maze-ing) | Générateur et solveur de labyrinthes avec rendu graphique, packagé (en binôme avec **mdauda**) | Génération & parcours de graphes, pathfinding, récursion, rendu 2D, sérialisation, configuration, packaging & distribution | ✅ |
-| **Pacman** | Jeu d'arcade 2D en Python, architecture orientée objet, packagé et déployable | Architecture de jeu, conception OO, rendu 2D, design d'interface, configuration, gestion des dépendances, packaging & déploiement | 🔄 |
+| [**Growing Code**](https://github.com/Bozy92/growing-code) | Introduction to Python through a community garden | Variables, data types, expressions, control flow, functions | ✅ |
+| [**Code Cultivation**](https://github.com/Bozy92/code-cultivation) | OOP by simulating a virtual garden | Classes, attributes & methods, encapsulation, inheritance, nested classes, scope | ✅ |
+| [**Garden Guardian**](https://github.com/Bozy92/garden-guardian) | Fault-tolerant agricultural sensor data pipeline | Error handling, standard & custom exceptions | ✅ |
+| [**Data Quest**](https://github.com/Bozy92/data-quest) | Processing game data with Python data structures | Lists, tuples, sets, dictionaries, lazy iterators | ✅ |
+| [**Data Archivist**](https://github.com/Bozy92/data-archivist) | Archival system and data streams | File I/O, standard input & output | ✅ |
+| [**Code Nexus**](https://github.com/Bozy92/code-nexus) | Extensible data processing system | Abstract classes, overriding, polymorphism | ✅ |
+| [**The Codex**](https://github.com/Bozy92/the-codex) | Organising a project into packages | Import system, `__init__.py`, absolute/relative imports, circular dependencies | ✅ |
+| [**DataDeck**](https://github.com/Bozy92/datadeck) | Modular card system | Design patterns, abstract classes, interfaces | ✅ |
+| [**The Matrix**](https://github.com/Bozy92/the-matrix) | Data engineering tooling | Virtual environments, pip/Poetry, environment variables | ✅ |
+| [**Cosmic Data**](https://github.com/Bozy92/cosmic-data) | Structured data validation | Pydantic, data models, custom validators, nested structures | ✅ |
+| [**FuncMage**](https://github.com/Bozy92/funcmage) | Advanced functional programming | Higher-order functions, decorators, closures, lambdas, functional iterators | ✅ |
+| [**A-Maze-ing**](https://github.com/Bozy92/a-maze-ing) | Packaged maze generator and solver with graphical rendering (pair project with **mdauda**) | Graph generation & traversal, pathfinding, recursion, 2D rendering, serialization, configuration, packaging & distribution | ✅ |
+| **Pacman** | 2D arcade game in Python, object-oriented architecture, packaged and deployable | Game architecture, OO design, 2D rendering, interface design, configuration, dependency management, packaging & deployment | 🔄 |
 
-**Systems & Networks Administration** ✅: virtualisation, réseau, sécurité, conteneurisation
+**Systems & Networks Administration** ✅: virtualization, networking, security, containerization
 
-| Projet | Description | Compétences | Statut |
+| Project | Description | Skills | Status |
 |---|---|---|---|
-| [**Born2beRoot**](https://github.com/Bozy92/born2beroot) | Installation et sécurisation d'un serveur Linux en VM | Partitionnement (LVM), pare-feu, utilisateurs & groupes, politiques de sécurité, hardening, cron | ✅ |
-| [**NetPractice**](https://github.com/Bozy92/NetPractice) | Résolution de configurations réseau | Adressage IP, subnetting, routage & passerelles, troubleshooting | ✅ |
-| [**Inception**](https://github.com/Bozy92/inception) | Infrastructure web multi-services avec Docker Compose (NGINX, WordPress, MariaDB) | Conteneurs, orchestration, réseaux Docker, volumes, gestion des secrets, TLS | ✅ |
+| [**Born2beRoot**](https://github.com/Bozy92/born2beroot) | Installing and securing a Linux server in a VM | Partitioning (LVM), firewall, users & groups, security policies, hardening, cron | ✅ |
+| [**NetPractice**](https://github.com/Bozy92/NetPractice) | Solving network configuration problems | IP addressing, subnetting, routing & gateways, troubleshooting | ✅ |
+| [**Inception**](https://github.com/Bozy92/inception) | Multi-service web infrastructure with Docker Compose (NGINX, WordPress, MariaDB) | Containers, orchestration, Docker networks, volumes, secrets management, TLS | ✅ |
 
 ### 📊 Stats
 <p>
