@@ -71,6 +71,22 @@
 | [**NetPractice**](https://github.com/Bozy92/NetPractice) | Solving network configuration problems | IP addressing, subnetting, routing & gateways, troubleshooting | ✅ |
 | [**Inception**](https://github.com/Bozy92/inception) | Multi-service web infrastructure with Docker Compose (NGINX, WordPress, MariaDB) | Containers, orchestration, Docker networks, volumes, secrets management, TLS | ✅ |
 
+### 🔭 Currently working on
+
+- 🎮 **Pacman**: 2D arcade game in Python, object-oriented game architecture, packaging & deployment
+
+### 🗺️ Up next at 42
+
+| Module | Project | What it's about |
+|---|---|---|
+| 🤖 Artificial Intelligence | **Agent Smith** | Agentic framework that autonomously solves coding challenges: reasons, writes code, runs it in a sandbox and iterates |
+| 🤖 Artificial Intelligence | **call_me_maybe** | LLM function calling: getting language models to speak the language of computers |
+| 🤖 Artificial Intelligence | **RAG against the machine** | Retrieval-Augmented Generation system |
+| 🧮 Algorithmics | **Fly in** | Efficient drone routing system across connected zones, minimizing simulation turns |
+| ⚙️ Systems & Networks Programming | **Codexion** | Concurrency challenge with POSIX threads, mutexes and scheduling |
+| ⚙️ Systems & Networks Programming | **The Answer Protocol** | Multiplayer text adventure: TCP server with a CLI client and a GUI client |
+| 🌐 Web Programming | **ft_transcendence** | Final common core group project: a full-stack web application |
+
 ### 📊 Stats
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Bozy92&show_icons=true&count_private=true&hide_border=true" />
